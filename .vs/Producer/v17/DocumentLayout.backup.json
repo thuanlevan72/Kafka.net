@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thuan\\source\\repos\\Producer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11BD5891-F430-41DE-A1B4-83F6EA37D540}|Producer\\Producer.csproj|c:\\users\\thuan\\source\\repos\\producer\\producer\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BD5891-F430-41DE-A1B4-83F6EA37D540}|Producer\\Producer.csproj|solutionrelative:producer\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB93560F-065E-483B-B55F-9E92995C7F6A}|Consumer\\Consumer.csproj|c:\\users\\thuan\\source\\repos\\producer\\consumer\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB93560F-065E-483B-B55F-9E92995C7F6A}|Consumer\\Consumer.csproj|solutionrelative:consumer\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BD5891-F430-41DE-A1B4-83F6EA37D540}|Producer\\Producer.csproj|c:\\users\\thuan\\source\\repos\\producer\\producer\\services\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BD5891-F430-41DE-A1B4-83F6EA37D540}|Producer\\Producer.csproj|solutionrelative:producer\\services\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB93560F-065E-483B-B55F-9E92995C7F6A}|Consumer\\Consumer.csproj|c:\\users\\thuan\\source\\repos\\producer\\consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB93560F-065E-483B-B55F-9E92995C7F6A}|Consumer\\Consumer.csproj|solutionrelative:consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BD5891-F430-41DE-A1B4-83F6EA37D540}|Producer\\Producer.csproj|c:\\users\\thuan\\source\\repos\\producer\\producer\\producer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11BD5891-F430-41DE-A1B4-83F6EA37D540}|Producer\\Producer.csproj|solutionrelative:producer\\producer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BD5891-F430-41DE-A1B4-83F6EA37D540}|Producer\\Producer.csproj|c:\\users\\thuan\\source\\repos\\producer\\producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BD5891-F430-41DE-A1B4-83F6EA37D540}|Producer\\Producer.csproj|solutionrelative:producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Producer",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Producer\\Producer\\Producer.csproj",
+              "RelativeDocumentMoniker": "Producer\\Producer.csproj",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Producer\\Producer\\Producer.csproj",
+              "RelativeToolTip": "Producer\\Producer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T09:46:24.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Producer\\Consumer\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "Consumer\\Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Producer\\Consumer\\Models\\Todo.cs",
+              "RelativeToolTip": "Consumer\\Models\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:15:34.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Producer\\Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "Consumer\\Program.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Producer\\Consumer\\Program.cs",
+              "RelativeToolTip": "Consumer\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T09:39:14.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Producer\\Producer\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Producer\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Producer\\Producer\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Producer\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T09:34:14.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Producer\\Producer\\Program.cs",
+              "RelativeDocumentMoniker": "Producer\\Program.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Producer\\Producer\\Program.cs",
+              "RelativeToolTip": "Producer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T09:34:10.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KafkaProducer.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Producer\\Producer\\Services\\KafkaProducer.cs",
+              "RelativeDocumentMoniker": "Producer\\Services\\KafkaProducer.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Producer\\Producer\\Services\\KafkaProducer.cs",
+              "RelativeToolTip": "Producer\\Services\\KafkaProducer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T09:32:10.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
